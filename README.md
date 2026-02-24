@@ -116,7 +116,7 @@ Private Endpoint configured with:
 
 ## 👨‍💻 Author
 
-**Amal Ubasnayake**  
+**Amal Udayanga Basnayake**  
 Cloud & Cybersecurity Enthusiast 🇱🇰  
 IT Operations | Azure Security | Zero Trust Architecture  
 
